@@ -1,0 +1,9 @@
+# .tbls.yml
+
+# DSN (Database Source Name) to connect database
+dsn: mysql://local:local@localhost:3306/local
+
+
+# Path to generate document
+# Default is `dbdoc`
+docPath: doc/schema
